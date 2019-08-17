@@ -1,0 +1,369 @@
+body 
+{
+	background-image:url(photos/Wood1.jpg);
+	background-size:1000px;
+}
+.logo {
+	   
+        
+        padding-left: 10px;
+        padding-top: 10px;
+        float: left;
+}
+
+
+		
+#menu {
+        
+        
+        
+        width: 98%;
+        margin: 0px 1% 5px 1%;
+        color: #eeeeec;
+        font-size:18px;
+        padding:5px;
+		font-style:bold;
+		clear:both;
+       }
+/*------------------------------ Sprites menu ------------------------------*/
+
+
+.topnav a {
+  float: left;
+  display:block;
+  border-radius:25px;
+  
+  padding: 16px 16px;
+}
+
+.topnav a:hover {
+  background-color:#CFB53B ;
+  
+}
+/*------------------------------ Sprites login register ------------------------------*/
+.topnav 1 {
+  float: left;
+  display:block;
+  border-radius:25px;
+  
+  padding: 16px 16px;
+}
+
+.topnav 1:hover {
+  background-color:green;	
+}
+	
+.rlogo {
+        height: 150x;
+        width: 250px;
+        padding-right: 20px;
+        padding-top: 20px;
+        float: right;
+        text-align: right;
+		
+       }
+a {
+        text-decoration: none;
+		color:blue;
+		font-size:18px;
+   }
+	
+.name {
+	    font-size:40px;
+		font:bold;
+		color:#FFDF00;
+		float:center;
+		border:3px;
+		border-color:#ffbb33;
+		padding-top:10px;
+		
+	}
+
+.table1{
+	     position:relative;
+		 left:20px;
+	     width:300px;
+		 height:350px;
+		 padding-left:5px;
+		 padding-right:5px;
+		 margin-right:5px;
+		 border:3px solid black;
+		 border-collapse:collapse;
+		 float:left;
+		 border-radius:25px;
+		 
+		 
+		 
+	}	  
+#buttoncolor{
+	background-color:#0c0ce3;
+	color:#e3e3e9;
+	
+}
+#fcolor{
+	color:white;
+	font-size:18px;
+	
+}
+
+#fcolor2{
+	color:#FFDF00;
+	font-size:20px;
+	font:bold;
+	
+  }
+  .fimg{
+	   
+	    position:relative;
+	    padding-left:5px;
+		padding-right:5px;
+        padding-top: 10px;
+		margin-right:5px;
+        float:right;
+		
+		
+		
+	
+	}
+ .search{
+	width: 130px;
+    font-size: 16px;
+    padding-right:60px;
+    float:right;
+	
+	}
+ 
+ .add{
+	
+       	width:400px;
+		height:600px;
+		padding-right:10px;
+		float:right;
+		clear:both;
+		border:3px solid black;
+	    border-collapse:collapse;
+		border-radius:25px;
+    }
+	#offertext{
+		color:#D3D3D3;
+		font-size:30px;
+		
+	}
+ 
+ .column {
+    float: left;
+    padding: 15px;
+      }
+ .box{
+    width: 30%;
+    padding: 10px;
+    border: 1px solid gray;
+    margin: 10px 1% 20px 40px;
+    font-size: small;
+	
+   }	  
+   
+  #orderbutton{
+	background-color:#22fa17;
+	color:white;
+  }
+  .textbox{
+        position:relative;
+		left:80px;	  
+	  	width:600px;
+		height:220px;
+		padding-left:20px;
+	    float:left;
+	    font-family:Times New Roman;
+	    font-style:italic;
+	    font-size:20px;
+	    color:white;
+		clear:both;
+  }
+ .foot{
+	    float:left;
+		width:100%;
+		color:white;
+		text-align:center;
+		padding-top:20px;
+		clear:both;
+		
+ } 
+ /*................Register page and login page...............*/
+ .Register{
+      
+     position:relative;
+     top:30px;	 
+     width:900px;
+	 height:600px;
+	
+     padding-top:40px;
+     border: 3px solid black;
+     margin: 0px 1% 20px 80px;
+	 background-image:url(photos/rimag.jpeg);
+	 background-size:1000px;
+	 border-radius:25px;
+	 clear:both;
+	 }
+   #Rtable{
+	 color:white;
+	 font-size:18px;
+	 float:left;
+	 padding-left:20px;
+	 }	 
+	
+   #textbox{
+	   width:300px;
+	   height:40px;
+	   border:3px solid #FFDF00;
+	   border-radius:10px;
+	   padding-left:20px;
+	   
+	   
+   }	
+   .login{
+      
+     position:relative;
+     top:30px;	 
+     width:980px;
+	 height:600px;
+	 
+     padding-top:40px;
+     border: 3px solid black;
+     margin: 0px 1% 20px 80px;
+	 background-image:url(photos/l1.jpeg);
+	 background-size:1000px;
+	 border-radius:25px;
+	 clear:both;
+	 }
+	 
+ #ltable{
+	 position:relative;
+	 left:20px;
+	 color:white;
+	 font-size:18px;
+	 float:left;
+	 padding-left:0px;
+	 margin-left:0px;
+	 }	 
+.order{
+	 position:relative;
+     top:30px;	 
+     width:980px;
+	 height:600px;
+	 float:left;
+	 border: 3px solid black;
+     margin: 0px 1% 20px 160px;
+	 border-radius:25px;
+	 clear:both;
+	
+     }	
+	 
+	 .order1{
+	 position:relative;
+     top:30px;	 
+     width:980px;
+	 height:600px;
+	 float:left;
+	 background-image:url(photos/card.png);
+	 background-size:800px;
+	 background-repeat:no-repeat;
+	 border: 3px solid black;
+     margin: 0px 1% 20px 160px;
+	 border-radius:25px;
+	 clear:both;
+	
+     }	
+   .box1{
+    width: 40%;
+    padding: 10px;
+   
+	float:left;
+    margin: 40px 1% 20px 40px;
+    border-radius:25px;
+	
+   }	  	 
+	 
+  #guest{
+	   color:#FFDF00;
+	   font-size:18px;
+	  
+	}	 
+	
+.about{
+	position:relative;
+	bottom:200px;
+    width:500px;
+	height:300px;
+	float:right;
+	margin-right:30px;
+	clear:both;
+	border:3px solid black;
+	border-collapse:collapse;
+    border-radius:25px;
+}
+.aboutimg{
+  position:relative;
+  top:10px;
+  float:left;
+  height:400px; 
+  width:600px;
+  border:3px;  
+	
+}	
+
+.hotline{
+	 position:relative;
+     top:30px;	 
+     width:1120px;
+	 height:820px;
+	 float:left;
+	 border: 3px solid black;
+     margin: 0px 1% 20px 160px;
+	 border-radius:25px;
+	 clear:both;
+	
+     }	
+.hotlineimg{
+	position:relative;
+	top:10px;
+	float:left;
+	height:500px;
+	width:400px;
+	padding-left:10px;
+}
+.hotlinetext{
+	position:relative;
+	top:10px;
+	float:right;
+	color:white;
+	font-size:20px;
+	height:700px;
+	width:650px;
+	clear:both;
+}
+ .menubox{
+	  position:relative;
+     top:30px;	 
+     width:1200px;
+	 height:800px;
+	 float:left;
+	 border: 3px solid black;
+     margin: 0px 1% 20px 40px;
+	 border-radius:25px;
+	 clear:both;
+ }
+ 
+ .column1 {
+    float: left;
+    padding: 15px;
+      }
+ .box2{
+    width: 18%;
+    padding: 10px;
+    border: 1px solid gray;
+    margin: 10px 1% 20px 30px;
+    font-size: small;
+	
+   }	  
+	 
